@@ -5,4 +5,4 @@ Since 2012, the Düsseldorf student inventory, open source, has served as a lear
 The Düsseldorf student inventory is an open source, valid, precise and independent personality inventory for students in the transition classes (valid, reliable, objective). The Düsseldorf student inventory is open to development.
 I am happy to provide the raw data, SPSS files, R files and source codes of the programs (Internet, PC, Android- , iOS smartphone available (PHP, MySQL, Xcode, Android Studio, Xamarin, Lazarus).
 
-![screenshot](./duesseldorfer-schuelerinventar-bootstrap-mysql-php/profilansicht.JPG)
+![screenshot](/home/pkoopongithub/duesseldorfer-schuelerinventar-bootstrap-mysql-php/profilansicht.JPG)
