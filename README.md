@@ -53,4 +53,4 @@ For the following subtasks, I will nominate project partners with partial calcul
 
 I would like to submit a project proposal for the whole team of individuals. Before that, I would like to ask the individuals I would like to submit to the project application for calculations. I am happy to receive feedback with individual calculations for the subtasks that you want to take on. But you also support me a lot if you follow me on github.
 
-https://www.foerderdatabase.de/FDB/Content/DE/Foerderprogramm/Bund/BMBF/software-sprint-open-source-foerderung.html
+https://www.foerderdatenbank.de/FDB/Content/DE/Foerderprogramm/Bund/BMBF/software-sprint-open-source-foerderung.html
