@@ -48,6 +48,6 @@ Beute, Primaten, Genalg:
 cellular automata
 
 Pascal:
-Console programs (cellular automata. Mini-Max, Alpha-Beta
+Console programs (cellular automata. Mini-Max, Alpha-Beta)
 
 
