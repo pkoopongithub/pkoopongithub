@@ -25,3 +25,29 @@ I would like to submit a funding application for "Software Sprint - Funding for 
 
  My focus is on algorithms and data structures and statistics and data analysis. Since 2012, the Düsseldorf Student Inventory, which I developed, has been used as an open-source, valid, reliable, and objective learning platform for learning classical test theory. Due to the Covid-19 crisis, I started digitizing the learning environment in November 2021 (PHP, MySQL, Android Studio, Xcode, Xamarin, Lazarus, R, PSPP) and publishing it on github.
 
+
+
+Repositories:
+
+Düsseldorf student inventory:
+Open-source, objective, valid and reliable personality inventory for students in transition classes
+
+Algorithmic recursive sequence analysis:
+Sequence analytical method for discrete character strings with grammar inducer, grammar parser, grammar transducer
+
+David Deutsch Meditationen:
+Reviews of and personal meditations on the two metaphysical publications by David Deutsch
+
+Chess:
+Source code didactic program chess self-play mode
+
+Chessteg:
+Source code GUI program chess
+
+Beute, Primaten, Genalg:
+cellular automata
+
+Pascal:
+Console programs (cellular automata. Mini-Max, Alpha-Beta
+
+
