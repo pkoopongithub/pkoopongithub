@@ -50,4 +50,16 @@ cellular automata
 Pascal:
 Console programs (cellular automata. Mini-Max, Alpha-Beta)
 
+Die Algorithmisch rekursive Sequenzanalyse ist das einzige mir bekannte objektiv hermeneutische Verfahren, dass vollständig ohne esoterische Tiefenhermeneutik auskommt, algorithmisch, evolutionär und memetisch ausgerichtet ist und einen Grammatikinduktor (Scheme) , einen Parser (Pascal) und einen Grammatiktransduktur (Lisp) bietet. 
+
+Das Düsseldorfer Schülerinventar ist das einzige mir bekannte quelloffene, valide, reliable und objektive Verfahren, dessen Quellen und Quellcodes überschaubar und nachvollziehbar nachprogrammierbar sind.
+
+Ich freue mich über Erben, die die Verfahren aufgreifen, nachprogrammieren und/oder für Eigenentwicklungen davon inspirieren lassen.
+
+The algorithmic recursive sequence analysis is the only objective hermeneutic method known to me that does not require any esoteric deep hermeneutics, is algorithmically, evolutionarily and memetically oriented and offers a grammar inductor (Scheme), a parser (Pascal) and a grammar transductor (Lisp).
+
+The Düsseldorf student inventory is the only open-source, valid, reliable and objective method that I know of, whose sources and source codes are clear and understandable and can be reprogrammed.
+
+I am happy about heirs who take up the process, reprogram it and/or let it inspire them for their own developments.
+
 
