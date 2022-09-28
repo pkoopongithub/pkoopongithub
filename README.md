@@ -21,7 +21,6 @@ I would be happy to talk to you about your type of support:
 - User training, tutorials, YouTube tutorials,
 - technical editing, professional editing.
 
-I would like to submit a funding application for "Software Sprint - Funding for Open Source Developers" for the "Teaching and Learning Platform Düsseldorf Student Inventory".
 
  My focus is on algorithms and data structures and statistics and data analysis. Since 2012, the Düsseldorf Student Inventory, which I developed, has been used as an open-source, valid, reliable, and objective learning platform for learning classical test theory. Due to the Covid-19 crisis, I started digitizing the learning environment in November 2021 (PHP, MySQL, Android Studio, Xcode, Xamarin, Lazarus, R, PSPP) and publishing it on github.
 
