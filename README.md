@@ -62,6 +62,30 @@ The Düsseldorf student inventory is the only open-source, valid, reliable and o
 I am happy about heirs who take up the process, reprogram it and/or let it inspire them for their own developments.
 
 
+Empirical social research is currently developing in three directions:
+ 
+With the founding of the German Academy for Sociology, in Germany quantitative social research has regained importance and students have to learn the necessary basics again during their studies.
+ 
+Qualitative social research continues on its way between deep hermeneutics and Oevermannian sequence analysis.
+ 
+Multi-agent systems, neural nets, cellular automata, etc. continue to form the basis for the development of artificial social systems.
+ 
+What is missing is qualitative social research that provides the empirically proven protocol languages for such artificial social systems, which serves to simulate empirically proven models (https://github.com/pkoopongithub). This is not possible with large language models, which hardly go beyond the explanatory value of Markov chains, but only with graph-based models that depict causal inference and rule-based action in an explanatory manner.
+
+Die empirische Sozialforschung entwickelt sich derzeit in drei Richtungen:
+
+Mit der Gründung der Deutschen Akademie für Soziologie hat in Deutschland die quantitative Sozialforschung wieder an Bedeutung gewonnen und die Studierenden müssen sich während des Studiums die notwendigen Grundlagen neu aneignen.
+ 
+Die qualitative Sozialforschung bewegt sich weiter zwischen Tiefenhermeneutik und Oevermannscher Sequenzanalyse.
+ 
+Multiagentensysteme, neuronale Netze, zellulare Automaten etc. bilden weiterhin die Grundlage für die Entwicklung künstlicher sozialer Systeme.
+ 
+Was fehlt, ist eine qualitative Sozialforschung, die die empirisch erprobten Protokollsprachen für solche künstlichen Sozialsysteme bereitstellt, die dazu dient, empirisch erprobte Modelle zu simulieren (https://github.com/pkoopongithub). Das geht nicht mit Large Language Modellen, die kaum über den Erklärungswert von Markow-Ketten hinausgehen, sondern nur mit graphenbasierten Modellen, die kausale Inferenz und regelbasiertes Handeln erklärend abbilden.
+
+
+
+
+
 Generative Pre-Trained Transformers (GPT) und Large Language Models (LLM) gehen kaum über den Erklärungswert von Markow-Ketten hinaus und müssen zudem mit der Wissensbasis empirisch ermittelter Dialoggrammatiken (Algorithmisch rekursive Sequenzanalyse) und agentenorientierter gewichteter Entscheidungstabellen für eine bessere Ergebnisqualität optimiert werden. Nur so werden Diaogschnittstellen glaubwürdiger als Markow-Generatoren und nur so werden Protokollsprachen für Agenten empirisch bewährte Dialogstrukturen abbilden.
 
 Generative Pre-Trained Transformers (GPT) and Large Language Models (LLM) hardly go beyond the explanatory value of Markov chains and must also be optimized with the knowledge base of empirically determined dialog grammars (algorithmically recursive sequence analysis) and agent-oriented weighted decision tables for better quality results. Only in this way will dialog interfaces become more credible than Markov generators and only in this way will protocol languages for agents map empirically proven dialog structures.
