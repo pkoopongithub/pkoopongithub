@@ -51,6 +51,11 @@ Console programs (cellular automata. Mini-Max, Alpha-Beta)
 
 Die Algorithmisch rekursive Sequenzanalyse ist das einzige mir bekannte objektiv hermeneutische Verfahren, das vollständig ohne esoterische Tiefenhermeneutik auskommt, algorithmisch, evolutionär und memetisch ausgerichtet ist und einen Grammatikinduktor (Scheme) , einen Parser (Pascal) und einen Grammatiktransduktur (Lisp) bietet. 
 
+Die Algorithmisch Rekursive Sequenzanalyse ist eine Methode zur Kausalinferenz mit Handlungsgrammatiken und Graphen. Im Gegensatz zu Poststrukturalisten, Postmodernisten, kritischen Posthumanisten und Tiefenhermeneuten nimmt sie Karl Popper, Ulrich Oevermann, Pearl, Bayes, LISP, SCHEME, R und Python sehr ernst.
+
+Algorithmic Recursive Sequence Analysis is a method for causal inference using action grammars and graphs. In contrast to poststructuralists, postmodernists, critical posthumanists and depth hermeneutics, she takes Karl Popper, Ulrich Oevermann, Pearl, Bayes, LISP, SCHEME, R and Python very seriously.
+
+
 Das Düsseldorfer Schülerinventar ist das einzige mir bekannte quelloffene, valide, reliable und objektive Verfahren, dessen Quellen und Quellcodes überschaubar und nachvollziehbar nachprogrammierbar sind.
 
 Ich freue mich über Erben, die die Verfahren aufgreifen, nachprogrammieren und/oder für Eigenentwicklungen davon inspirieren lassen.
