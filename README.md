@@ -103,6 +103,13 @@ Los Transformadores Generativos (GPT) y los Modelos de Lenguaje Largo (LLM) pre-
 
 Предварительно обученные генеративные преобразователи (GPT) и большие языковые модели (LLM) едва ли выходят за рамки объяснительной ценности цепей Маркова и также должны быть оптимизированы с помощью базы знаний эмпирически определенных диалоговых грамматик (алгоритмический рекурсивный анализ последовательности) и агентно-ориентированных взвешенных решений. . таблицы для лучшего результата. Только тогда диалоговые интерфейсы становятся более достоверными, чем марковские генераторы, и только тогда языки протоколов для агентов отображают эмпирически проверенные диалоговые структуры.
 
+Seeking Partner for Promoting Online Personality Inventory
+We are looking for a partner to help promote our online personality inventory at https://mein-duesk.org/index.php?navi=8 This role involves creating and managing social media advertising content, including images, audio, and video. You'll need to explain the registration, data collection, profile creation, and interpretation processes to potential users. Compensation will be performance-based, linked to the effectiveness of your advertising. If you have a talent for digital marketing and are interested in collaboration, please reach out!
+
+
+Partner gesucht für die Bewerbung unseres Online-Persönlichkeitsinventars
+Wir suchen einen Partner zur Unterstützung der Bewerbung unseres Online-Persönlichkeitsinventars unter https://mein-duesk.org/index.php?navi=8 Diese Rolle beinhaltet die Erstellung und Verwaltung von Social-Media-Werbeinhalten, einschließlich Bilder, Audio und Video. Sie müssen den Anmeldeprozess, die Datenerfassung, die Profilerstellung und -interpretation potenziellen Nutzern erklären. Die Vergütung erfolgt leistungsbasiert, abhängig vom Erfolg Ihrer Werbung. Wenn Sie ein Talent für digitales Marketing haben und an einer Zusammenarbeit interessiert sind, melden Sie sich bei uns!
+
 
 
 
