@@ -8,6 +8,7 @@ I am happy to provide the raw data, SPSS files, R files and source codes of the 
 ![screenshot](./profilans.png)
 
 Düsseldorfer Schülerinventar https://mein-duesk.org 
+
 Ich suche einen Partner für mein Düsseldorfer Schülerinventar https://mein-duesk.org , ein Persönlichkeitsinventar für Schüler der Übergangsklassen der Sekundarstufe I. Ich erstelle auf Basis dieses Inventars für den Partner Versionen für PHP, XCode, Android Studio, Xamarin, Delphi und Lazarus. Dazu erstelle ich auch Papierversionen und Handbücher. Der Partner vertreibt die Software über seinen Web-Server, Google Play, den App Store und Amazon, bietet auf seinem Webserver Tests an und beteiligt mich.
 
 ---
