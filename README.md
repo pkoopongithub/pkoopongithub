@@ -7,6 +7,34 @@ I am happy to provide the raw data, SPSS files, R files and source codes of the 
 
 ![screenshot](./profilans.png)
 
+Düsseldorfer Schülerinventar https://mein-duesk.org 
+Ich suche einen Partner für mein Düsseldorfer Schülerinventar https://mein-duesk.org , ein Persönlichkeitsinventar für Schüler der Übergangsklassen der Sekundarstufe I. Ich erstelle auf Basis dieses Inventars für den Partner Versionen für PHP, XCode, Android Studio, Xamarin, Delphi und Lazarus. Dazu erstelle ich auch Papierversionen und Handbücher. Der Partner vertreibt die Software über seinen Web-Server, Google Play, den App Store und Amazon, bietet auf seinem Webserver Tests an und beteiligt mich.
+
+---
+
+English
+I am seeking a partner for my Düsseldorf Student Inventory https://mein-duesk.org , a personality inventory designed for transition students in the lower secondary education level. I will create versions of this inventory for PHP, XCode, Android Studio, Xamarin, Delphi, and Lazarus for the partner. I will also produce paper versions and manuals. The partner will distribute the software through their web server, Google Play, the App Store, and Amazon, offer testing services on their web server, and share the revenue with me.
+
+---
+
+ Français
+Je recherche un partenaire pour mon Inventaire d’Élèves de Düsseldorf https://mein-duesk.org , un inventaire de personnalité destiné aux élèves des classes de transition du niveau secondaire inférieur. Je créerai des versions de cet inventaire pour PHP, XCode, Android Studio, Xamarin, Delphi et Lazarus pour le partenaire. Je produirai également des versions papier et des manuels. Le partenaire distribuera le logiciel via son serveur web, Google Play, l'App Store et Amazon, proposera des services de test sur son serveur web et partagera les revenus avec moi.
+
+---
+
+Español
+Busco un socio para mi Inventario de Estudiantes de Düsseldorf https://mein-duesk.org , un inventario de personalidad diseñado para estudiantes de las clases de transición de la educación secundaria. Crearé versiones de este inventario para PHP, XCode, Android Studio, Xamarin, Delphi y Lazarus para el socio. También elaboraré versiones en papel y manuales. El socio distribuirá el software a través de su servidor web, Google Play, la App Store y Amazon, ofrecerá servicios de pruebas en su servidor web y compartirá los ingresos conmigo.
+
+---
+
+Русский
+Я ищу партнера для моего Дюссельдорфского Инвентаря Студентов https://mein-duesk.org , инструмента оценки личностных качеств для учеников переходных классов среднего образования. Я создам версии этого инвентаря для PHP, XCode, Android Studio, Xamarin, Delphi и Lazarus для партнера. Также я подготовлю печатные версии и руководства. Партнер будет распространять программное обеспечение через свой веб-сервер, Google Play, App Store и Amazon, предоставлять тестовые услуги на своем веб-сервере и делиться доходами со мной.
+
+---
+
+ 中文
+我正在寻找一个合作伙伴，共同开发我的杜塞尔多夫学生评估工具 https://mein-duesk.org ，这是一个为中学过渡阶段学生设计的人格评估工具。我将为合作伙伴基于此评估工具开发PHP、XCode、Android Studio、Xamarin、Delphi和Lazarus版本，并且制作纸质版本和手册。合作伙伴将通过其网页服务器、Google Play、App Store和Amazon分发软件，提供网页服务器上的测试服务，并与我分享收入。
+
 When you work on an open source project, you know the intense, personal commitment that contributes to its success. Many users know and appreciate this. However, not everything succeeds with the developers' own strength, especially since in many cases only pure interest in the topic or the use of technologies provide the basis. However, not every user has the skills and the time to support a project. Verbal feedback in the form of error messages is very helpful.
 
 For others, material support may be the only way to get involved in open source.
