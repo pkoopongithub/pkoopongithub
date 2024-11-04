@@ -117,7 +117,62 @@ Multiagentensysteme, neuronale Netze, zellulare Automaten etc. bilden weiterhin 
 Was fehlt, ist eine qualitative Sozialforschung, die die empirisch erprobten Protokollsprachen für solche künstlichen Sozialsysteme bereitstellt, die dazu dient, empirisch erprobte Modelle zu simulieren (https://github.com/pkoopongithub). Das geht nicht mit Large Language Modellen, die kaum über den Erklärungswert von Markow-Ketten hinausgehen, sondern nur mit graphenbasierten Modellen, die kausale Inferenz und regelbasiertes Handeln erklärend abbilden.
 
 
+Wenn das Ziel darin besteht, Verkaufsgespräche zu erklären – also die zugrunde liegenden Regeln, Ziele und Strukturen offen darzustellen –, dann ist ein generatives Modell wie ein LLM oft unzureichend. Ein LLM kann lediglich ähnliche Gespräche erzeugen oder imitieren, ohne die Absichten oder sozialen Mechanismen dahinter explizit zu machen.
 
+ Wesentliche Punkte des Arguments
+
+1. Nachahmung vs. Erklärung: LLMs sind darauf trainiert, Muster aus großen Textmengen zu lernen und Antworten zu generieren, die oberflächlich betrachtet einem Verkaufsgespräch ähneln können. Aber sie haben keine explizite Darstellung der Ziele, Strategien oder Regeln, die Verkaufsgespräche formen. Somit bleibt die Erklärung der zugrunde liegenden Strukturen unzureichend.
+  
+2. Erklärungsdefizit: Verkaufsgespräche folgen oft bestimmten Regeln und Zielen, wie zum Beispiel dem Aufbau von Vertrauen, der Ermittlung von Kundenbedürfnissen oder der Anwendung spezifischer Verhandlungstechniken. Ein LLM kann zwar solche Techniken reproduzieren, erklärt jedoch nicht, warum und wie diese Strategien funktionieren. Hierfür wäre ein analytischer Ansatz notwendig, der die Struktur und Dynamik solcher Gespräche explizit modelliert.
+
+3. Beitrag von LLMs zu Verständniszwecken begrenzt: Da LLMs auf Wahrscheinlichkeitsverteilungen und Muster basieren, zeigen sie keine bewusste Zielgerichtetheit und keine kausalen Regeln, die Verkaufsgespräche leiten. Wenn das Ziel also darin besteht, die Funktionsweise dieser Gespräche zu verstehen und zu lehren, wäre ein LLM allein unzureichend – es braucht ergänzende Modelle oder Theorien, die die Handlungslogiken und Ziele explizit beschreiben.
+
+ Ergänzende Ansätze zur Erklärung von Verkaufsgesprächen
+
+- Regelbasierte Modelle: Durch die Verwendung von regelbasierten Systemen oder graphenbasierten Modellen könnten die Handlungslogiken, Ziele und Entscheidungsstrukturen von Verkaufsgesprächen explizit dargestellt werden. Diese Modelle könnten die spezifischen Verhaltensweisen und Reaktionen in einem Verkaufsgespräch verdeutlichen und die Verbindungen zwischen verschiedenen Gesprächszielen und -taktiken erklären.
+  
+- Agentenbasierte Modelle: Multiagentensysteme, die auf kausalen und regelbasierten Prinzipien basieren, könnten die Dynamik und das Ziel eines Verkaufsgesprächs explizit abbilden. Solche Systeme können zudem eine gewisse Zielgerichtetheit simulieren, die Verkaufsstrategien realistischer und transparenter macht.
+
+- Dialoggrammatiken: Mit spezifischen Protokollen oder Dialoggrammatiken könnten die Abläufe und Regeln für Verkaufsgespräche detaillierter dargestellt und somit besser erklärt werden, als es durch ein generatives Modell möglich ist.
+
+
+
+
+Das Argument ist schlüssig, da es darauf hinweist, dass die Fähigkeit, Verkaufsgespräche zu imitieren, nicht mit der Fähigkeit gleichzusetzen ist, diese Gespräche in ihren Regeln und Zielen zu erklären. Ein LLM mag Verkaufsgespräche simulieren können, aber ohne ein explizites Regelwerk und ohne Verständnis für die Ziele solcher Gespräche liefert es keine adäquate Erklärung.
+
+
+Die Algorithmisch Rekursive Sequenzanalyse ist eine Methode zur Kausalinferenz mit Handlungsgrammatiken und Graphen. Im Gegensatz zu Poststrukturalisten, Postmodernisten, kritischen Posthumanisten, Konstruktivisten und Tiefenhermeneuten nimmt sie Karl Popper, Ulrich Oevermann, Chomsky, Pearl, Bayes, LISP, SCHEME, R und Python sehr ernst.
+
+Algorithmic Recursive Sequence Analysis is a method for causal inference using action grammars and graphs. In contrast to poststructuralists, postmodernists, critical posthumanists, constructivists and depth hermeneutics, she takes Karl Popper, Ulrich Oevermann, Chomsky, Pearl, Bayes, LISP, SCHEME, R and Python very seriously.
+
+If the goal is to explain sales conversations – that is, to openly present the underlying rules, goals and structures – then a generative model like an LLM is often inadequate. An LLM can only create or imitate similar conversations without making explicit the intentions or social mechanisms behind them.
+
+ Key points of the argument
+
+1. Imitation vs. Explanation: LLMs are trained to learn patterns from large amounts of text and generate responses that, on the surface, can resemble a sales pitch. But they have no explicit representation of the goals, strategies, or rules that shape sales conversations. The explanation of the underlying structures therefore remains inadequate.
+  
+2. Explanation deficit: Sales conversations often follow certain rules and goals, such as building trust, identifying customer needs or using specific negotiation techniques. While an LLM can reproduce such techniques, it does not explain why and how these strategies work. This would require an analytical approach that explicitly models the structure and dynamics of such conversations.
+
+3. Contribution of LLMs to understanding purposes limited: Because LLMs are based on probability distributions and patterns, they do not demonstrate conscious targeting and causal rules guiding sales conversations. So if the goal is to understand and teach how these conversations work, an LLM alone would be inadequate - it needs complementary models or theories that explicitly describe the logic of action and goals.
+
+ Complementary approaches to explaining sales conversations
+
+- Rule-based models: By using rule-based systems or graph-based models, the action logic, goals and decision structures of sales discussions could be explicitly represented. These models could clarify the specific behaviors and reactions in a sales conversation and explain the connections between different conversation goals and tactics.
+  
+- Agent-based models: Multi-agent systems based on causal and rule-based principles could explicitly represent the dynamics and goal of a sales conversation. Such systems can also simulate a certain level of targeting that makes sales strategies more realistic and transparent.
+
+- Dialogue grammars: With specific protocols or dialogue grammars, the processes and rules for sales discussions could be presented in more detail and thus better explained than is possible with a generative model.
+
+
+Projektziele
+Erklärung sozialer Interaktionen: Anstatt komplexe soziale Interaktionen und Verkaufsgespräche durch Black-Box-Modelle abzubilden, nutzen wir eine regelbasierte Sprache, die nachvollziehbare und interpretierbare Analysen ermöglicht.
+Einsatz in Multiagentensystemen: Die entwickelte Sprache kann als Protokoll für Multiagentensysteme dienen und soll in Python implementiert werden. Der Einsatz solcher Protokollsprachen in Multiagentensystemen eröffnet neue Möglichkeiten, transparente und erklärbare Interaktionen zwischen Agenten zu ermöglichen.
+Innovative Kombination von Methodologien: Der Ansatz verbindet Methoden der soziologischen Hermeneutik und Inhaltsanalyse mit einer formalisierten Sprachentwicklung. Hierdurch wird eine modellbasierte Grammatik induziert, die verschiedene Terminal- und Nicht-Terminal-Symbole umfasst, welche soziale Interaktionen als erklärbare Sequenzen abbilden.
+
+Project Goals
+Explaining Social Interactions: Instead of modeling complex social interactions and sales dialogues through black-box models, this project uses a rule-based language that enables understandable and interpretable analyses.
+Use in Multi-Agent Systems: The developed language can serve as a protocol for multi-agent systems and will be implemented in Python. The use of such protocol languages in multi-agent systems opens up new possibilities for transparent and explainable interactions among agents.
+Innovative Methodological Combination: This approach merges sociological hermeneutics and content analysis with formalized language development. A model-based grammar is induced, encompassing various terminal and non-terminal symbols that represent social interactions as explainable sequences.
 
 
 Generative Pre-Trained Transformers (GPT) und Large Language Models (LLM) gehen kaum über den Erklärungswert von Markow-Ketten hinaus und müssen zudem mit der Wissensbasis empirisch ermittelter Dialoggrammatiken (Algorithmisch rekursive Sequenzanalyse) und agentenorientierter gewichteter Entscheidungstabellen für eine bessere Ergebnisqualität optimiert werden. Nur so werden Diaogschnittstellen glaubwürdiger als Markow-Generatoren und nur so werden Protokollsprachen für Agenten empirisch bewährte Dialogstrukturen abbilden.
