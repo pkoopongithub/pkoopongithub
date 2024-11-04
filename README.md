@@ -96,6 +96,21 @@ The Düsseldorf student inventory is the only open-source, valid, reliable and o
 I am happy about heirs who take up the process, reprogram it and/or let it inspire them for their own developments.
 
 
+
+
+In den vergangenen vier Jahrzehnten hat sich die Forschung und Datenanalyse durch technologische Fortschritte tiefgreifend gewandelt. Die algorithmisch gestützte Rekonstruktion sozialer Interaktionen erfordert heute Ansätze, die große Datenmengen und die zunehmende Komplexität sozialer Phänomene berücksichtigen. Die *Algorithmisch Rekursive Sequenzanalyse (ARS)* ist eine innovative Softwarelösung, die Forschern ermöglicht, soziale Interaktionen strukturiert zu analysieren und latente Muster in Kommunikationsabläufen sichtbar zu machen. ARS nutzt Induktion, Parsing und Transduktion, um Handlungsgrammatiken zu generieren, die latente Sinnstrukturen abbilden – Strukturen, die in sozialen Interaktionen unbewusst und wiederkehrend reproduziert werden.
+
+Vor 40 Jahren war ein solches Werkzeug aufgrund praktischer Einschränkungen nur eingeschränkt nutzbar. Die verfügbaren Datensätze beschränkten sich auf physische Tonband- oder Videoaufnahmen (Protokolle), die zunächst in schriftliche Form (Transkripte) übertragen werden mussten. Diese Transkripte wurden dann manuell von Auswertungsteams in einzelne Interakte zerlegt und mit symbolischen Kategorien versehen – ein zeitaufwändiger Prozess, der die Analyse und das Erkennen komplexer sozialer Strukturen erschwerte. Erst danach konnte mit der Modellierung der latenten Strukturen durch Handlungsgrammatiken begonnen werden, indem Terminalzeichenketten erstellt, aus diesen durch Induktion die Grammatik abgeleitet und anschließend die Strukturen durch Parsing und Transduktion empirisch validiert wurden.
+
+Heute hingegen kann ARS dank moderner Algorithmen, leistungsfähiger Computerinfrastruktur und umfangreicher Datensätze sein volles Potenzial entfalten. Fortschritte in der Verarbeitung natürlicher Sprache, etwa durch große Sprachmodelle, ermöglichen eine Automatisierung der Transkription, Interaktanalyse und Kategorisierung. Dadurch lassen sich die latenten Handlungsstrukturen und Sinnmuster, die sozialen Interaktionen zugrunde liegen, gezielt offenlegen. ARS ist somit nicht nur ein Werkzeug für die qualitative Sozialforschung, sondern eröffnet als interdisziplinäres Forschungsinstrument neue Möglichkeiten des Verständnisses in den Sozialwissenschaften und darüber hinaus.
+
+
+
+Over the past four decades, research and data analysis have been profoundly transformed by technological advancements. Algorithmic reconstruction of social interactions now demands approaches that address large datasets and the increasing complexity of social phenomena. The *Algorithmic Recursive Sequence Analysis (ARS)* is an innovative software solution that enables researchers to systematically analyze social interactions and uncover latent patterns in communication sequences. ARS employs induction, parsing, and transduction to generate action grammars that capture latent semantic structures—structures that are unconsciously and recurrently reproduced within social interactions.
+
+Forty years ago, such a tool would have been limited by practical constraints. Available datasets were confined to physical audio or video recordings (protocols), which first had to be transcribed into written form (transcripts). These transcripts were then manually segmented by research teams into individual interaction acts and assigned symbolic categories—a time-intensive process that made the analysis and identification of complex social structures difficult. Only after this process could the modeling of latent structures through action grammars begin, involving the creation of terminal symbol sequences, the induction of grammar from these sequences, and the validation of structures via parsing and transduction against empirical data.
+
+
 Empirical social research is currently developing in three directions:
  
 With the founding of the German Academy for Sociology, in Germany quantitative social research has regained importance and students have to learn the necessary basics again during their studies.
