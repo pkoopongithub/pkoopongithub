@@ -98,6 +98,71 @@ I am happy about heirs who take up the process, reprogram it and/or let it inspi
 
 
 
+**Algorithmisch Rekursive Sequenzanalyse 2.0**
+
+Large Language Models (LLMs), die Interaktionen imitieren und Muster erkennen können, eröffnen interessante neue Möglichkeiten für die soziologische Erforschung von Interaktionssettings. LLMs und das hier besprochene Verfahren können sich tatsächlich gegenseitig ergänzen, anstatt sich auszuschließen. Hier sind einige Überlegungen dazu, wie das Verfahren erweitert werden könnte, um von LLMs zu profitieren:
+
+### 1. **Interpretation und Kategorienbildung durch LLMs als Unterstützung bei der Grammatikinduktion**
+   LLMs könnten tatsächlich dabei helfen, in großen Transkriptkorpora Kategoriensymbole für unterschiedliche Satzarten und Gesprächsakte (z. B. Fragen, Bitten, Antworten, Einwände) zu identifizieren. Die Modelle sind in der Lage, eine große Bandbreite an Interaktionen zu imitieren und kontextualisierte Bedeutungen zu verstehen. Durch die Generierung solcher Kategoriensymbole könnten LLMs als "Vorkategorisierer" fungieren, der die Grundlage für eine tiefergehende, strukturelle Analyse bildet.
+
+### 2. **Automatisierte und transparente Kategorienbildung**
+   Ein Vorteil des LLM-Einsatzes wäre, dass die Kategorisierungslogik automatisiert und flexibel auf große Datenmengen anwendbar ist. Die Opazität der internen Regeln der LLMs bleibt zwar bestehen, aber durch spezifisches Fine-Tuning und Vergleich zwischen menschlicher und maschineller Kategorisierung könnten Forscher eine verlässliche, empirisch fundierte Basis für Kategorien schaffen, die in eine klar strukturierte Grammatik überführt werden kann.
+
+### 3. **Ketten von Kategoriensymbolen für probabilistische Grammatikinduktion**
+   Die von LLMs generierten Ketten von Kategoriensymbolen könnten dann als Eingabe für die probabilistische Grammatikinduktion dienen. Diese Grammatikinduktion könnte die Wahrscheinlichkeit und Häufigkeit von Gesprächsabläufen modellieren und Aussagen über Muster in verschiedenen Interaktionssettings treffen. Das heißt, die Grammatik könnte ein probabilistisches Modell aufbauen, das empirische und künstlich erzeugte Gesprächsverläufe vergleicht.
+
+### 4. **Vergleich empirischer und künstlicher Kategorienketten zur Überprüfung von Modellen**
+   Die Kombination von empirisch erfassten Kategorienketten mit künstlich erzeugten Ketten könnte als Validierungsmethode für LLMs dienen. Durch den Abgleich von beobachteten Gesprächsmustern in der Realität mit den synthetisch generierten könnten soziologische Forscher Rückschlüsse auf die Realitätsnähe und die Grenzen der LLM-Simulationen ziehen.
+
+### 5. **Erforschung und Vergleich verschiedener Interaktionssettings**
+   Da LLMs spezifische Gesprächskontexte imitieren können, könnten Forscher verschiedene künstliche Gesprächskontexte (z. B. Verkaufsgespräch, Beratungsgespräch) generieren lassen und diese dann mit empirischen Daten aus ähnlichen Settings vergleichen. Durch den Einsatz der probabilistischen Grammatikinduktion könnten Unterschiede oder Gemeinsamkeiten in Interaktionsmustern zwischen den künstlich generierten und den realen Daten identifiziert und soziologisch interpretiert werden.
+
+### 6. **Überprüfung und Weiterentwicklung soziologischer Hypothesen**
+   Indem sie künstlich erzeugte Kategorienketten zur Modellierung realer Interaktionen nutzen, könnten Forscher Hypothesen über Gesprächsstrukturen, Machtverhältnisse oder andere Interaktionsdynamiken überprüfen und weiterentwickeln. Sie könnten beispielsweise untersuchen, ob die Häufigkeit bestimmter Muster von Interaktionen in künstlich erzeugten Kontexten ähnlich verteilt ist wie in der Realität und wo signifikante Abweichungen bestehen.
+
+### Fazit
+Das Verfahren ist durch den Einsatz von LLMs keineswegs überholt, sondern kann durch sie ausgebaut werden. LLMs könnten in der Vorverarbeitung und in der automatisierten Kategorisierung von Gesprächssequenzen hilfreich sein. In der zweiten Phase, in der Grammatikinduktion und Grammatiktransduktion, bleiben die soziologische Analyse und die Interpretation von Kategorienketten jedoch nach wie vor erforderlich, da die Modelle allein die Komplexität soziologischer Hypothesen und Interpretationen nicht erfassen können.
+
+
+
+Large Language Models (LLMs), which can imitate interactions and recognize patterns, offer interesting new possibilities for the sociological study of interaction settings. The procedure discussed here and LLMs can actually complement each other rather than replace one another. Here are some considerations on how the procedure could be expanded to benefit from LLMs:
+
+### 1. **Interpretation and Category Formation by LLMs as Support for Grammar Induction**
+   LLMs could indeed help identify category symbols for different types of sentences and conversational acts (e.g., questions, requests, responses, objections) in large corpora of transcripts. The models can imitate a wide range of interactions and understand contextualized meanings. By generating such category symbols, LLMs could act as "pre-categorizers," providing the foundation for a more in-depth structural analysis.
+
+### 2. **Automated and Transparent Category Formation**
+   One advantage of using LLMs would be the automated and flexible application of categorization logic to large datasets. Although the internal rules of LLMs remain opaque, specific fine-tuning and comparisons between human and machine categorization could enable researchers to create a reliable, empirically based foundation for categories, which can then be translated into a clear structural grammar.
+
+### 3. **Chains of Category Symbols for Probabilistic Grammar Induction**
+   The chains of category symbols generated by LLMs could then serve as input for probabilistic grammar induction. This grammar induction could model the probability and frequency of conversational sequences and reveal patterns in various interaction settings. In other words, the grammar could create a probabilistic model that compares empirical and artificially generated conversational sequences.
+
+### 4. **Comparison of Empirical and Artificial Category Chains to Verify Models**
+   Combining empirically collected category chains with artificially generated ones could serve as a validation method for LLMs. By comparing observed conversational patterns in reality with synthetically generated ones, sociological researchers could draw conclusions about the realism and limitations of LLM simulations.
+
+### 5. **Exploring and Comparing Different Interaction Settings**
+   Since LLMs can imitate specific conversational contexts, researchers could generate various artificial conversational contexts (e.g., sales conversations, advisory sessions) and then compare these with empirical data from similar settings. Using probabilistic grammar induction, differences or similarities in interaction patterns between artificial and real data could be identified and sociologically interpreted.
+
+### 6. **Verification and Further Development of Sociological Hypotheses**
+   By using artificially generated category chains to model real interactions, researchers could test and develop hypotheses about conversational structures, power dynamics, or other interaction dynamics. For instance, they could examine whether the frequency of certain interaction patterns in artificially generated contexts is similarly distributed as in reality and where significant deviations exist.
+
+### Conclusion
+This procedure is not rendered obsolete by LLMs but can instead be expanded through them. LLMs could assist in the preprocessing and automated categorization of conversational sequences. In the second phase, involving grammar induction and grammar transduction, sociological analysis and interpretation of category chains remain necessary, as the models alone cannot fully capture the complexity of sociological hypotheses and interpretations.
+
+
+
+Es wäre möglich, Methoden wie die objektive Hermeneutik (Oevermann) und die qualitative Inhaltsanalyse (Mayring) durch den Einsatz von Deep Learning und Large Language Models (LLMs) zu ersetzen, um Lesarten, Sinnstrukturen und Kategoriensysteme effizient zu erstellen und Interaktionen zu analysieren. Deep Learning und LLMs können große Mengen an Text- und Interaktionsdaten verarbeiten und komplexe Muster und Bedeutungsstrukturen autonom erkennen, was eine automatisierte und skalierbare Alternative zur manuellen, interpretativen Analyse der objektiven Hermeneutik darstellt. Durch das Training auf umfangreichen Datensätzen sind neuronale Netzwerke in der Lage, Sinnstrukturen und Kategorien zu identifizieren, die sonst mühsam manuell extrahiert werden müssten.
+
+Die Entwicklung einer umfassenden Handlungsgrammatik, die Sinnstrukturen und Kategorien den strukturellen Regeln sozialer Interaktionen zuordnet, bleibt jedoch ein Bereich, der spezialisierte Werkzeuge und formale Programmiersprachen wie Lisp und Scheme erfordert. Die Algorithmisch Rekursive Sequenzanalyse bietet eine regelbasierte Methode zur Induktion von Grammatiken, die die Abfolge und Struktur von Interaktionen formalisiert. Lisp und Scheme eignen sich aufgrund ihrer Fähigkeit, rekursive und regelbasierte Prozesse zu modellieren, besonders gut für die algorithmische Analyse der Sinnstrukturen. In diesem Sinne bleibt die Handlungsgrammatik ein Aufgabenbereich für spezialisierte Werkzeuge und Methoden, die tiefgehende strukturelle Einsichten in soziale Sequenzen ermöglichen.
+
+It would be possible to replace methods such as objective hermeneutics (Oevermann) and qualitative content analysis (Mayring) with Deep Learning and Large Language Models (LLMs) to efficiently create interpretations, meaning structures, and category systems, as well as to analyze interactions. Deep Learning and LLMs can process large amounts of text and interaction data, autonomously recognizing complex patterns and meaning structures, thus providing an automated and scalable alternative to the manual interpretative analysis of objective hermeneutics. By training on extensive datasets, neural networks can identify meaning structures and categories that would otherwise have to be painstakingly extracted manually.
+
+However, developing a comprehensive action grammar that assigns meaning structures and categories to the structural rules of social interactions remains a field requiring specialized tools and formal programming languages such as Lisp and Scheme. Algorithmic Recursive Sequence Analysis offers a rule-based method for the induction of grammars, formalizing the sequence and structure of interactions. Lisp and Scheme are particularly well-suited for the algorithmic analysis of meaning structures due to their ability to model recursive and rule-based processes. In this sense, action grammar remains a specialized area for tools and methods that enable deeper structural insights into social sequences.
+
+
+
+
+
+
 In den vergangenen vier Jahrzehnten hat sich die Forschung und Datenanalyse durch technologische Fortschritte tiefgreifend gewandelt. Die algorithmisch gestützte Rekonstruktion sozialer Interaktionen erfordert heute Ansätze, die große Datenmengen und die zunehmende Komplexität sozialer Phänomene berücksichtigen. Die *Algorithmisch Rekursive Sequenzanalyse (ARS)* ist eine innovative Softwarelösung, die Forschern ermöglicht, soziale Interaktionen strukturiert zu analysieren und latente Muster in Kommunikationsabläufen sichtbar zu machen. ARS nutzt Induktion, Parsing und Transduktion, um Handlungsgrammatiken zu generieren, die latente Sinnstrukturen abbilden – Strukturen, die in sozialen Interaktionen unbewusst und wiederkehrend reproduziert werden.
 
 Vor 40 Jahren war ein solches Werkzeug aufgrund praktischer Einschränkungen nur eingeschränkt nutzbar. Die verfügbaren Datensätze beschränkten sich auf physische Tonband- oder Videoaufnahmen (Protokolle), die zunächst in schriftliche Form (Transkripte) übertragen werden mussten. Diese Transkripte wurden dann manuell von Auswertungsteams in einzelne Interakte zerlegt und mit symbolischen Kategorien versehen – ein zeitaufwändiger Prozess, der die Analyse und das Erkennen komplexer sozialer Strukturen erschwerte. Erst danach konnte mit der Modellierung der latenten Strukturen durch Handlungsgrammatiken begonnen werden, indem Terminalzeichenketten erstellt, aus diesen durch Induktion die Grammatik abgeleitet und anschließend die Strukturen durch Parsing und Transduktion empirisch validiert wurden.
