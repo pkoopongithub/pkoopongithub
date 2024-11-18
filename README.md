@@ -73,11 +73,7 @@ I would be happy to talk to you about your type of support:
 
   Ein einzelnes Transkript wurde anhand einer hypothetischen Grammatik detailliert analysiert. Dabei kamen verschiedene Werkzeuge zum Einsatz: Scheme für die Grammatikinduktion, Lisp für den Parser und Transduktor, sowie ein Multi-Agenten-System-Entwurf mit Python.
 
-- **Entwicklung und Optimierung von Chatbots**:
-  - [ARS20GramChatBotBSPEng.ipynb](https://github.com/pkoopongithub/algorithmisch-rekursive-sequenzanalyse/blob/main/ARS20GramChatBotBSPEng.ipynb)
-  - [ARS20GramChatBotBSPGer.ipynb](https://github.com/pkoopongithub/algorithmisch-rekursive-sequenzanalyse/blob/main/ARS20GramChatBotBSPGer.ipynb)
-
-  Hier wurden Konzepte zur Integration der Grammatik in einen ChatBot vorgestellt.
+-
 
 - **Optimierung der Übergangswahrscheinlichkeiten**:
   - [ARS20GramOpt.ipynb](https://github.com/pkoopongithub/algorithmisch-rekursive-sequenzanalyse/blob/main/ARS20GramOpt.ipynb)
@@ -191,10 +187,7 @@ Eight transcripts of sales dialogues are used for grammar induction to create an
 
 A single transcript is intensively analyzed based on a prior analysis and the creation of a hypothetical grammar. This involves grammar induction with Scheme, parsing and transduction using Lisp, and the development of a multi-agent system (MAS) with Python.
 
-- [ARS20GramChatBotBSPEng.ipynb](https://github.com/pkoopongithub/algorithmisch-rekursive-sequenzanalyse/blob/main/ARS20GramChatBotBSPEng.ipynb)
-- [ARS20GramChatBotBSPGer.ipynb](https://github.com/pkoopongithub/algorithmisch-rekursive-sequenzanalyse/blob/main/ARS20GramChatBotBSPGer.ipynb)
 
-Concept for utilizing the grammar in a ChatBot.
 
 - [ARS20GramOpt.ipynb](https://github.com/pkoopongithub/algorithmisch-rekursive-sequenzanalyse/blob/main/ARS20GramOpt.ipynb)
 - [ARS20GramOpt.pdf](https://github.com/pkoopongithub/algorithmisch-rekursive-sequenzanalyse/blob/main/ARS20GramOpt.pdf)
