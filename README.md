@@ -106,15 +106,15 @@ I would be happy to talk to you about your type of support:
 
 - **Comparative Analysis and Theoretical Frameworks**:
   - [ARSvergleichMitAnderenMethoden.pdf](https://github.com/pkoopongithub/algorithmisch-rekursive-sequenzanalyse/blob/main/ARSvergleichMitAnderenMethoden.pdf)
-  - [ARSNaturalismusKonstruktivismusPostmodernismus.pdf][(https://github.com/pkoopongithub/algorithmisch-rekursive-sequenzanalyse/blob/main/)ARSNaturalismusKonstruktivismusPostmodernismus.pdf)
+  - [ARSNaturalismusKonstruktivismusPostmodernismus.pdf](https://github.com/pkoopongithub/algorithmisch-rekursive-sequenzanalyse/blob/main/ARSNaturalismusKonstruktivismusPostmodernismus.pdf)
 
   These documents provide a thorough comparative analysis of the ARS method in relation to other established approaches. The first document explores various methodologies, highlighting the strengths and weaknesses of each in a detailed comparison. The second document delves into the theoretical foundations of the ARS method, contrasting it with perspectives from Naturalism, Constructivism, and Postmodernism. The analyses are supported by interdisciplinary tools and frameworks, including statistical models, conceptual diagrams, and philosophical critiques.
 
 
 
 - **Vergleichende Analyse und theoretische Rahmen**:
-  - [ARSvergleichMitAnderenMethoden.pdf](https://github.com/pkoopongithub/algorithmisch-rekursive-sequenzanalyse/blob/main/)ARSvergleichMitAnderenMethoden.pdf)
-  - [ARSNaturalismusKonstruktivismusPostmodernismus.pdf](https://github.com/pkoopongithub/algorithmisch-rekursive-sequenzanalyse/blob/main/)ARSNaturalismusKonstruktivismusPostmodernismus.pdf)
+  - [ARSvergleichMitAnderenMethoden.pdf](https://github.com/pkoopongithub/algorithmisch-rekursive-sequenzanalyse/blob/main/ARSvergleichMitAnderenMethoden.pdf)
+  - [ARSNaturalismusKonstruktivismusPostmodernismus.pdf](https://github.com/pkoopongithub/algorithmisch-rekursive-sequenzanalyse/blob/main/ARSNaturalismusKonstruktivismusPostmodernismus.pdf)
 
   Diese Dokumente bieten eine umfassende vergleichende Analyse der ARS-Methode im Verhältnis zu anderen etablierten Ansätzen. Das erste Dokument untersucht verschiedene Methodologien und beleuchtet die jeweiligen Stärken und Schwächen im Detailvergleich. Das zweite Dokument setzt sich mit den theoretischen Grundlagen der ARS-Methode auseinander und stellt diese den Perspektiven des Naturalismus, Konstruktivismus und Postmodernismus gegenüber. Die Analysen werden durch interdisziplinäre Werkzeuge und Rahmenwerke unterstützt, einschließlich statistischer Modelle, konzeptioneller Diagramme und philosophischer Kritiken.
 
