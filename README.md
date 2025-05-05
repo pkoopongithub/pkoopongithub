@@ -36,7 +36,7 @@ Since 2012, the **Düsseldorf Student Inventory** has served as an open-source l
 
 📂 **Key Files**:  
 - [ARS20AchtTranskripte.ipynb](https://github.com/pkoopongithub/algorithmisch-rekursive-sequenzanalyse/blob/main/ARS20AchtTranskripte.ipynb)  
-- [ARSEightTranscripts.ipynb] (https://github.com/pkoopongithub/algorithmisch-rekursive-sequenzanalyse/blob/main/ARSEightTranscripts.ipynb) 
+- [ARSEightTranscripts.ipynb](https://github.com/pkoopongithub/algorithmisch-rekursive-sequenzanalyse/blob/main/ARSEightTranscripts.ipynb) 
 
 ### **ARS 1994 Archive**  
 - Grammar tools (Lisp/Scheme)  
