@@ -51,7 +51,8 @@ Since 2012, the **Düsseldorf Student Inventory** has served as an open-source l
 ### **1. Düsseldorf Inventory Partnership**  
 I provide:  
 - Versions for PHP, Xamarin, Android Studio, etc.  
-- Paper manuals and handbooks  
+- Paper manuals and handbooks
+  
 You handle:  
 - Distribution via app stores/web servers  
 - Revenue sharing  
