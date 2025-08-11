@@ -109,7 +109,9 @@ Modelos de gramática accional para análisis de diálogos.
 
 
 # The Pompeii Project / Das Pompeji-Projekt
-
+<p align="center">
+  <img src="Trilogie.png" alt="Trilogy Cover Image">
+</p>
 
 
 **The Pompeii Project – The literary response to Yuval Noah Harari and his posthuman future**
