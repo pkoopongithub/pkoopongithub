@@ -144,7 +144,7 @@ Diese Trilogie ist nichts für Sie…
 
 …keine Helden und Bösewicht,
 
-…keine Bestätigung Ihrrs Weltbildes. 
+…keine Bestätigung Ihres Weltbildes. 
 
 Die letzte Freiheit: Eine Trilogie, die Sie zwingt, über Posthumanismus, Algorithmen und die Zukunft der Demokratie nachzudenken. 
 
