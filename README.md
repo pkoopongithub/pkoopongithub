@@ -131,6 +131,7 @@ WARNING:
 This trilogy is boring!If you are a fan of thrillers or heroic sci-fi sagas, you should put this trilogy down immediately.In The Last Freedom, there is no action in the classical sense, but a philosophical thought experiment disguised as a technical thriller. It’s not just about escape and espionage, but the big questions that thinkers like Popper and Deutsch grapple with. Every page demands that you engage your mind, rather than just getting caught up in the action. If you find that boring, you have been duly warned.
 
 The Last Freedom: Your brain will not be spared.
+
 https://pkoopongithub.github.io/Projekt_Pompeji/
 
 
@@ -152,6 +153,7 @@ Diese Trologie ist langweilig!
 Wenn Sie ein Fan von Thrillern oder heldenhaften Sci-Fi-Sagen sind, legen Sie diese Trilogie am besten sofort wieder weg. In Die letzte Freiheit gibt es keine Action im klassischen Sinne, sondern ein philosophisches Gedankenspiel, das als technischer Thriller getarnt ist. Hier geht es nicht nur um Flucht und Spionage, sondern um die großen Fragen, die Denker wie Popper und Deutsch beschäftigen. Jede Seite verlangt, dass Sie mitdenken, anstatt nur mitzufiebern. Wenn Sie das als langweilig empfinden, sind Sie herzlich gewarnt. 
 
 Die letzte Freiheit: Ihr Gehirn wird nicht verschont.
+
 https://pkoopongithub.github.io/Projekt_Pompeji/
 
 
