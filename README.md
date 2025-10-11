@@ -1,208 +1,144 @@
+# 👋 @pkoopongithub  
 
-# 👋 Hi, I’m @pkoopongithub  
-
-### Psychometrics | Open-Source Development | Algorithmic Research  
-🔍 **Focus**: Valid, reliable, and objective psychometric tools + algorithmic analysis of social interactions.  
-
----
-
-[https://pkoopongithub.github.io/](https://pkoopongithub.github.io/) präsentiert meine für mich wichtigsten Projekte auf GitHub.
-
-[https://pkoopongithub.github.io/](https://pkoopongithub.github.io/) presents my for me most important projects on GitHub.
+### 🧩 Psychometrics | Open-Source Development | Algorithmic Research  
+🔍 **Focus:** Valid, reliable, and transparent psychometric tools · Algorithmic analysis of social interaction sequences  
 
 ---
 
-## 🌟 **Düsseldorf Student Inventory**  
+## 🌐 Portfolio  
+[**pkoopongithub.github.io**](https://pkoopongithub.github.io/) präsentiert meine wichtigsten Open-Source-Projekte.  
+*(Available in English and German.)*
+
+---
+
+## 🌟 Düsseldorf Student Inventory  
+
 **Open-source personality inventory for transition-class students**  
-📊 *Valid | Reliable | Objective | Transparent*  
+📊 *Valid · Reliable · Objective · Transparent*
 
-Since 2012, the **Düsseldorf Student Inventory** has served as an open-source learning platform for:  
-- Social science students  
-- Trainees in market/social research  
-- Developers and data analysts  
+Seit 2012 dient das **Düsseldorf Student Inventory (DÜSK)** als offene Lernplattform für  
+- Studierende der Sozialwissenschaften  
+- Auszubildende in Markt- und Sozialforschung  
+- Entwickler:innen und Datenanalyst:innen  
 
-**Features**:  
-✅ Raw data, SPSS/R files, and full source code available (PHP, MySQL, Xamarin, Lazarus, etc.)  
-✅ Cross-platform: Web, PC, Android, iOS  
-✅ Supports academic research and practical training  
+**Features**  
+- ✅ Vollständige Quelldateien (PHP, MySQL, Xamarin, Lazarus etc.)  
+- ✅ Offene Rohdaten + SPSS/R-Dateien  
+- ✅ Cross-platform: Web · PC · Android · iOS  
+- ✅ Für Forschung, Lehre und Praxis  
 
-📌 **Seeking a Partner** to collaborate on distribution (Google Play, App Store, Amazon) and development.  
-→ [Learn more](https://mein-duesk.org)  
+📌 **Kooperationspartner gesucht**  
+zur gemeinsamen Weiterentwicklung und Distribution (Google Play, App Store, Amazon).  
+🔗 [Mehr erfahren → mein-duesk.org](https://mein-duesk.org)
 
 ---
 
-## 🧠 **Algorithmic Recursive Sequence Analysis (ARS)**  
-*A rule-based method for causal inference using action grammars and graphs.*  
+## 🧠 Algorithmic Recursive Sequence Analysis (ARS)  
 
-### **ARS 2.0 (2024)**  
+*A rule-based method for causal inference using action grammars and graphs.*
+
+### ARS 2.0 (2024)  
 **Sales Dialogue Analysis & Grammar Induction**  
 - Optimized transition probabilities (Python)  
-- Multi-agent system (MAS) integration  
-- LLM-augmented category generation  
+- Multi-Agent-System (MAS) integration  
+- LLM-assisted category generation  
 
-📂 **Key Files**:  
+**Key Notebooks**  
 - [ARS20AchtTranskripte.ipynb](https://github.com/pkoopongithub/algorithmisch-rekursive-sequenzanalyse/blob/main/ARS20AchtTranskripte.ipynb)  
-- [ARSEightTranscripts.ipynb](https://github.com/pkoopongithub/algorithmisch-rekursive-sequenzanalyse/blob/main/ARSEightTranscripts.ipynb) 
+- [ARSEightTranscripts.ipynb](https://github.com/pkoopongithub/algorithmisch-rekursive-sequenzanalyse/blob/main/ARSEightTranscripts.ipynb)
 
-### **ARS 1994 Archive**  
+### ARS 1994 Archive  
 - Grammar tools (Lisp/Scheme)  
 - Parser implementations (Pascal)  
-- Original audio transcripts ([vkg1.mp3](https://github.com/pkoopongithub/algorithmisch-rekursive-sequenzanalyse/blob/main/vkg1.mp3))  
+- Original transcripts and audio ([vkg1.mp3](https://github.com/pkoopongithub/algorithmisch-rekursive-sequenzanalyse/blob/main/vkg1.mp3))
 
-🔗 [Explore ARS Repository](https://github.com/pkoopongithub/algorithmisch-rekursive-sequenzanalyse)  
-
----
-
-## 🤝 **Collaboration Opportunities**  
-### **1. Düsseldorf Inventory Partnership**  
-I provide:  
-- Versions for PHP, Xamarin, Android Studio, etc.  
-- Paper manuals and handbooks
-  
-You handle:  
-- Distribution via app stores/web servers  
-- Revenue sharing  
-
-### **2. Open-Source Support**  
-Ways to contribute:  
-- Improve GUI design  
-- Develop tutorials (YouTube/technical docs)  
-- Expand calibration samples  
-- Add new dev environments (Eclipse, NetBeans, etc.)  
-
-💡 **Let’s discuss!**  
+🔗 [Explore ARS Repository](https://github.com/pkoopongithub/algorithmisch-rekursive-sequenzanalyse)
 
 ---
 
-## 📜 **Philosophical Foundation**  
-ARS bridges:  
-- **Karl Popper’s falsifiability**  
-- **Ulrich Oevermann’s objective hermeneutics**  
-- **Computational rigor** (Bayes, Pearl, Chomsky)  
+## 🤝 Collaboration Opportunities  
 
-> *"Unlike postmodern hermeneutics, ARS combines Lisp’s recursion, Python’s scalability, and R’s stats to model social sequences as explainable graphs."*  
+### 1️⃣ Düsseldorf Inventory Partnership  
+**I provide:**  
+- Source versions (PHP, Xamarin, Android Studio etc.)  
+- Manuals and documentation  
+
+**You handle:**  
+- Distribution via app stores or web servers  
+- Revenue sharing agreement  
+
+### 2️⃣ Open-Source Support  
+Contribute by:  
+- Improving GUI design  
+- Writing tutorials (YouTube / tech docs)  
+- Expanding calibration samples  
+- Porting to new environments (Eclipse, NetBeans, etc.)
+
+💬 *Let’s collaborate on transparent, evidence-based psychometrics.*
 
 ---
 
-## 🌍 **Multilingual Summary**  
+## 📜 Philosophical Foundation  
+
+ARS bridges  
+- **Karl Popper’s** falsifiability principle  
+- **Ulrich Oevermann’s** objective hermeneutics  
+- **Computational rigor** (Bayes · Pearl · Chomsky)
+
+> “Unlike postmodern hermeneutics, ARS combines Lisp’s recursion, Python’s scalability, and R’s statistics to model social sequences as explainable graphs.”
+
+---
+
+## 🌍 Multilingual Summary  
+
 <details>
 <summary>Click to expand</summary>
 
-### **English**  
-Seeking partners for open-source psychometric tools and ARS development.  
-
-### **Français**  
-Recherche de collaborateurs pour des inventaires de personnalité open-source.  
-
-### **Español**  
-Modelos de gramática accional para análisis de diálogos.  
-
-### **中文**  
-开源性心理测量工具开发合作。  
+**English:** Seeking partners for open-source psychometric tools and ARS development.  
+**Français:** Recherche de collaborateurs pour des inventaires de personnalité open-source.  
+**Español:** Modelos de gramática accional para análisis de diálogos.  
+**中文:** 开源性心理测量工具开发合作。  
 </details>
 
 ---
 
-## 📬 **Contact**  
+## 📬 Contact  
 - GitHub: [@pkoopongithub](https://github.com/pkoopongithub)  
-- Project: [mein-duesk.org](https://mein-duesk.org)  
+- Project: [mein-duesk.org](https://mein-duesk.org)
 
-![Düsseldorf Inventory Screenshot](./profilans.png)  
+![Düsseldorf Inventory Screenshot](./profilans.png)
 
+---
 
+# 🏛️ The Pompeii Project / Das Pompeji-Projekt  
 
------
-
-
-# The Pompeii Project / Das Pompeji-Projekt
 <p align="center">
   <img src="Trilogie.png" alt="Trilogy Cover Image">
 </p>
 
+## ⚠️ Attention, Boredom! / Achtung, Langeweile!
 
-## **⚠️ Attention, Boredom!/Attention, Boredom!**
-
-### This trilogy is *not* for you…
-
-* **…** no fast-paced action with explosions
-* **…** no heroes and villains
-* **…** no confirmation of your worldview
+### This trilogy is *not* for everyone …  
+* **…** no explosions or chase scenes  
+* **…** no heroes or villains  
+* **…** no confirmation of your worldview  
 
 ---
 
-## **The Last Freedom**
+## 🕊️ The Last Freedom / Die letzte Freiheit  
 
-**A trilogy that forces** – to think.
-About **posthumanism**, **algorithms** and the **future of democracy**.
+A philosophical thought experiment disguised as a technical thriller —  
+about **posthumanism**, **algorithms**, and the **future of democracy**.  
 
----
+If you expect entertainment, you will be disappointed.  
+If you expect to **think**, you will be challenged.
 
-### **WARNING**
-
-This trilogy is **boring**!
-If you love **thrillers** or **heroic sci-fi epics**, put this down *immediately*.
-
-There is no action in the classic sense here.
-Instead: A **philosophical thought experiment** – disguised as a technical thriller.
-It is not just about escape and espionage, but about the big questions,
-with which thinkers such as **Karl Popper** and **David Deutsch** deal.
-
-Every page demands your thinking – not just your excitement.
-If you find this boring, you have been warned.
+> “Every page demands your thinking – not just your excitement.”
 
 ---
 
-**The Last Freedom**
-*Your brain will not be spared.*
+**The Last Freedom / Die letzte Freiheit**  
+*Your brain will not be spared.* / *Ihr Gehirn wird nicht verschont.*
 
-🔗 https://pkoopongithub.github.io/Projekt_Pompeji/
-
+🔗 [Project Page](https://pkoopongithub.github.io/Projekt_Pompeji/)  
 🔗 [Facebook](https://www.facebook.com/profile.php?id=61582087610370)
-
-
-
-
-
-
-
-## **⚠️ Achtung, Langeweile! / Attention, Boredom!**
-
-### Diese Trilogie ist *nichts* für Sie …
-
-* **…** keine rasante Handlung mit Explosionen
-* **…** keine Helden und Bösewichte
-* **…** keine Bestätigung Ihres Weltbildes
-
----
-
-## **Die letzte Freiheit / The Last Freedom**
-
-**Eine Trilogie, die zwingt** – zu denken.
-Über **Posthumanismus**, **Algorithmen** und die **Zukunft der Demokratie**.
-
----
-
-### **WARNUNG**
-
-Diese Trilogie ist **langweilig**!
-Wenn Sie **Thriller** oder **heroische Sci-Fi-Epen** lieben, legen Sie sie *sofort* weg.
-
-Hier gibt es keine Action im klassischen Sinn.
-Stattdessen: Ein **philosophisches Gedankenspiel** – getarnt als technischer Thriller.
-Es geht nicht nur um Flucht und Spionage, sondern um die großen Fragen,
-mit denen sich Denker wie **Karl Popper** und **David Deutsch** auseinandersetzen.
-
-Jede Seite fordert Ihr Mitdenken – nicht nur Ihr Mitfiebern.
-Falls Sie das langweilig finden, gilt: Sie wurden gewarnt.
-
----
-
-**Die letzte Freiheit / The Last Freedom**
-*Ihr Gehirn wird nicht verschont.*
-
-🔗 https://pkoopongithub.github.io/Projekt_Pompeji/
-
-🔗 [Facebook](https://www.facebook.com/profile.php?id=61582087610370)
-
-
-
