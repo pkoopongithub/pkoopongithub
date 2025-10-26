@@ -1,35 +1,37 @@
 # 👋 @pkoopongithub  
 
-### 🧩 Psychometrics | Open-Source Development | Algorithmic Research  
+### 🧩 Psychometrics · Open-Source Development · Algorithmic Research  
 🔍 **Focus:** Valid, reliable, and transparent psychometric tools · Algorithmic analysis of social interaction sequences  
 
 ---
 
-## 🌐 Portfolio
-[**pkoopongithub.github.io**](https://pkoopongithub.github.io/) showcases my major open-source projects.
+## 🌐 Portfolio  
+
+[**pkoopongithub.github.io**](https://pkoopongithub.github.io/) — overview of my open-source research and development projects.  
 *(Available in English and German.)*
 
 ---
 
-## 🌟 Düsseldorf Student Inventory  
+## 🌟 Düsseldorf Student Inventory (DÜSK)  
 
-**Open-source personality inventory for transition-class students**  
+**An open-source personality inventory for transition-class students**  
 📊 *Valid · Reliable · Objective · Transparent*
 
-Seit 2012 dient das **Düsseldorf Student Inventory (DÜSK)** als offene Lernplattform für  
-- Studierende der Sozialwissenschaften  
-- Auszubildende in Markt- und Sozialforschung  
-- Entwickler:innen und Datenanalyst:innen  
+Since 2012, the **Düsseldorf Student Inventory (DÜSK)** has served as an open learning and research platform for:  
+- Students in the social sciences  
+- Trainees in market and social research  
+- Developers and data analysts  
 
 **Features**  
-- ✅ Vollständige Quelldateien (PHP, MySQL, Xamarin, Lazarus etc.)  
-- ✅ Offene Rohdaten + SPSS/R-Dateien  
+- ✅ Full source code (PHP, MySQL, Xamarin, Lazarus, etc.)  
+- ✅ Open raw data + SPSS/R data files  
 - ✅ Cross-platform: Web · PC · Android · iOS  
-- ✅ Für Forschung, Lehre und Praxis  
+- ✅ For research, teaching, and applied practice  
 
-📌 **Kooperationspartner gesucht**  
-zur gemeinsamen Weiterentwicklung und Distribution (Google Play, App Store, Amazon).  
-🔗 [Mehr erfahren → mein-duesk.org](https://mein-duesk.org)
+📌 **Collaboration invited**  
+Joint development and distribution via app stores (Google Play, App Store, Amazon).  
+
+🔗 [More information → mein-duesk.org](https://mein-duesk.org)
 
 ---
 
@@ -47,12 +49,12 @@ zur gemeinsamen Weiterentwicklung und Distribution (Google Play, App Store, Amaz
 - [ARS20AchtTranskripte.ipynb](https://github.com/pkoopongithub/algorithmisch-rekursive-sequenzanalyse/blob/main/ARS20AchtTranskripte.ipynb)  
 - [ARSEightTranscripts.ipynb](https://github.com/pkoopongithub/algorithmisch-rekursive-sequenzanalyse/blob/main/ARSEightTranscripts.ipynb)
 
-### ARS 1994 Archive  
+### ARS Archive (1994–)  
 - Grammar tools (Lisp/Scheme)  
 - Parser implementations (Pascal)  
 - Original transcripts and audio ([vkg1.mp3](https://github.com/pkoopongithub/algorithmisch-rekursive-sequenzanalyse/blob/main/vkg1.mp3))
 
-🔗 [Explore ARS Repository](https://github.com/pkoopongithub/algorithmisch-rekursive-sequenzanalyse)
+🔗 [Explore the ARS Repository](https://github.com/pkoopongithub/algorithmisch-rekursive-sequenzanalyse)
 
 ---
 
@@ -60,19 +62,19 @@ zur gemeinsamen Weiterentwicklung und Distribution (Google Play, App Store, Amaz
 
 ### 1️⃣ Düsseldorf Inventory Partnership  
 **I provide:**  
-- Source versions (PHP, Xamarin, Android Studio etc.)  
+- Source versions (PHP, Xamarin, Android Studio, etc.)  
 - Manuals and documentation  
 
 **You handle:**  
 - Distribution via app stores or web servers  
 - Revenue sharing agreement  
 
-### 2️⃣ Open-Source Support  
-Contribute by:  
-- Improving GUI design  
-- Writing tutorials (YouTube / tech docs)  
-- Expanding calibration samples  
-- Porting to new environments (Eclipse, NetBeans, etc.)
+### 2️⃣ Open-Source Contributions  
+Ways to collaborate:  
+- Improve GUI design  
+- Write tutorials (YouTube / technical documentation)  
+- Expand calibration samples  
+- Port software to new environments (Eclipse, NetBeans, etc.)
 
 💬 *Let’s collaborate on transparent, evidence-based psychometrics.*
 
@@ -80,10 +82,10 @@ Contribute by:
 
 ## 📜 Philosophical Foundation  
 
-ARS bridges  
+**ARS bridges**  
 - **Karl Popper’s** falsifiability principle  
 - **Ulrich Oevermann’s** objective hermeneutics  
-- **Computational rigor** (Bayes · Pearl · Chomsky)
+- **Computational rigor** (*Bayes · Pearl · Chomsky*)
 
 > “Unlike postmodern hermeneutics, ARS combines Lisp’s recursion, Python’s scalability, and R’s statistics to model social sequences as explainable graphs.”
 
@@ -102,30 +104,22 @@ ARS bridges
 
 ---
 
-## 📬 Contact  
-- GitHub: [@pkoopongithub](https://github.com/pkoopongithub)  
-- Project: [mein-duesk.org](https://mein-duesk.org)
-
-![Düsseldorf Inventory Screenshot](./profilans.png)
-
----
-
-# 🏛️ The Pompeii Project / Das Pompeji-Projekt  
+## 🏛️ The Pompeii Project / Das Pompeji-Projekt  
 
 <p align="center">
   <img src="Trilogie.png" alt="Trilogy Cover Image">
 </p>
 
-## ⚠️ Attention, Boredom! / Achtung, Langeweile!
+### ⚠️ Attention, Boredom! / Achtung, Langeweile!  
 
-### This trilogy is *not* for everyone …  
-* **…** no explosions or chase scenes  
-* **…** no heroes or villains  
-* **…** no confirmation of your worldview  
+This trilogy is *not* for everyone …  
+- **no explosions or chase scenes**  
+- **no heroes or villains**  
+- **no confirmation of your worldview**
 
 ---
 
-## 🕊️ The Last Freedom / Die letzte Freiheit  
+### 🕊️ The Last Freedom / Die letzte Freiheit  
 
 A philosophical thought experiment disguised as a technical thriller —  
 about **posthumanism**, **algorithms**, and the **future of democracy**.  
@@ -135,10 +129,17 @@ If you expect to **think**, you will be challenged.
 
 > “Every page demands your thinking – not just your excitement.”
 
----
-
 **The Last Freedom / Die letzte Freiheit**  
 *Your brain will not be spared.* / *Ihr Gehirn wird nicht verschont.*
 
 🔗 [Project Page](https://pkoopongithub.github.io/Projekt_Pompeji/)  
 🔗 [Facebook](https://www.facebook.com/profile.php?id=61582087610370)
+
+---
+
+## 📬 Contact  
+
+- GitHub: [@pkoopongithub](https://github.com/pkoopongithub)  
+- Project: [mein-duesk.org](https://mein-duesk.org)  
+
+![Düsseldorf Inventory Screenshot](./profilans.png)
