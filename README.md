@@ -5,9 +5,7 @@
 
 ---
 
-## 🌐 Portfolio  
-[**pkoopongithub.github.io**](https://pkoopongithub.github.io/) präsentiert meine wichtigsten Open-Source-Projekte.  
-*(Available in English and German.)*
+## 🌐 Portfolio[**pkoopongithub.github.io**](https://pkoopongithub.github.io/) showcases my major open-source projects.*(Available in English and German.)*
 
 ---
 
