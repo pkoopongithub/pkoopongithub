@@ -5,10 +5,7 @@
 
 ---
 
-## 🌐 Portfolio  
 
-[**pkoopongithub.github.io**](https://pkoopongithub.github.io/) — overview of my open-source research and development projects.  
-*(Available in English and German.)*
 
 ---
 
