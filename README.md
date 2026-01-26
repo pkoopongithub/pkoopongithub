@@ -129,8 +129,7 @@ If you expect to **think**, you will be challenged.
 **The Last Freedom / Die letzte Freiheit**  
 *Your brain will not be spared.* / *Ihr Gehirn wird nicht verschont.*
 
-🔗 [Project Page](https://pkoopongithub.github.io/Projekt_Pompeji/)  
-🔗 [Facebook](https://www.facebook.com/profile.php?id=61582087610370)
+
 
 ---
 
