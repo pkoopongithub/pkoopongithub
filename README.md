@@ -28,7 +28,7 @@ Since 2012, the **Düsseldorf Student Inventory (DÜSK)** has served as an open 
 📌 **Collaboration invited**  
 Joint development and distribution via app stores (Google Play, App Store, Amazon).  
 
-🔗 [More information → mein-duesk.org](https://mein-duesk.org)
+
 
 ---
 
@@ -136,6 +136,5 @@ If you expect to **think**, you will be challenged.
 ## 📬 Contact  
 
 - GitHub: [@pkoopongithub](https://github.com/pkoopongithub)  
-- Project: [mein-duesk.org](https://mein-duesk.org)  
 
 ![Düsseldorf Inventory Screenshot](./profilans.png)
