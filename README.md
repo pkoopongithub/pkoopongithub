@@ -44,7 +44,7 @@ It integrates qualitative hermeneutics with formal modeling and contributes to *
 
 This repository contains:
 
-- Complete scientific papers on ARS methodology (German / English)  
+- Complete scientific papers on ARS methodology (German / [English](https://github.com/pkoopongithub/ARS_ExplainableAI/blob/main/ARS_XAI_Eng.pdf))  
 - Python implementations for grammar induction from terminal symbol sequences  
 - Advanced network modeling via transformation into Petri nets and Bayesian networks  
 - Compressing principles (repetition, recursion, symmetry, hierarchy)  
@@ -76,7 +76,7 @@ Es verbindet qualitative Hermeneutik mit formaler Modellierung und leistet einen
 
 Dieses Repository enthält:
 
-- Vollständige wissenschaftliche Aufsätze zur ARS-Methodologie (Deutsch / Englisch)  
+- Vollständige wissenschaftliche Aufsätze zur ARS-Methodologie ([Deutsch](https://github.com/pkoopongithub/ARS_ExplainableAI/blob/main/ARS_XAI_Ger.pdf) / Englisch)  
 - Python-Implementierungen zur Grammatikinduktion aus Terminalzeichenketten  
 - Erweiterte Netzmodellierung durch Transformation in Petri-Netze und Bayessche Netze  
 - Komprimierende Prinzipien (Wiederholung, Rekursion, Symmetrie, Hierarchie)  
