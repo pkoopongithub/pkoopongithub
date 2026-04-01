@@ -22,7 +22,7 @@ Since 2012, the **Düsseldorf Student Inventory (DÜSK)** has served as an open 
 **Features**  
 - ✅ Full source code ([PHP](https://github.com/pkoopongithub/duesseldorfer-schuelerinventar-bootstrap-mysql-php), MySQL, [Xamarin](https://github.com/pkoopongithub/duesseldorfer-schuelerinventar-xcode-androidstudio-xamarin), Lazarus, etc.)  
 - ✅ Open raw data + SPSS/R data files  
-- ✅ Cross-platform: Web · PC · Android · iOS  
+- ✅ Cross-platform: Web · PC · [Android](https://github.com/pkoopongithub/duesseldorfer-schuelerinventar-android-studio) · [iOS](https://github.com/pkoopongithub/duesseldorfer-schuelerinventar-xcode)  
 - ✅ For research, teaching, and applied practice  
 
 📌 **Collaboration invited**  
