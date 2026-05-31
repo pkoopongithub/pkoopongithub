@@ -1,6 +1,13 @@
 
 # 👋 @pkoopongithub
 
+
+I would be glad if you share this GitHub account and the following projects: [Project Pompeii](https://project.pompei.org?utm_source=chatgpt.com), [ARS-XAI](https://ars-xai.org?utm_source=chatgpt.com), and [The Last Freedom](https://the-last-freedom.org?utm_source=chatgpt.com).
+
+
+Ich würde mich freuen, wenn Sie diesen GitHub-Account sowie die folgenden Projekte teilen: [Project Pompeii](https://project.pompei.org?utm_source=chatgpt.com), [ARS-XAI](https://ars-xai.org?utm_source=chatgpt.com) und [The Last Freedom](https://the-last-freedom.org?utm_source=chatgpt.com).
+
+
 ### 🧩 Psychometrics · Open-Source Development · Algorithmic Research
 
 🔍 **Focus:** Valid, reliable, and transparent psychometric instruments · Algorithmic analysis of social interaction sequences
