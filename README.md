@@ -2,10 +2,10 @@
 # 👋 @pkoopongithub
 
 
-I would be glad if you share this GitHub account and the following projects: [Project Pompeii](https://project.pompei.org), [ARS-XAI](https://ars-xai.org), and [The Last Freedom](https://the-last-freedom.org).
+I would be glad if you share this GitHub account and the following projects: [Project Pompeii](https://pompeii-project.org), [ARS-XAI](https://ars-xai.org), and [The Last Freedom](https://the-last-freedom.org).
 
 
-Ich würde mich freuen, wenn Sie diesen GitHub-Account sowie die folgenden Projekte teilen: [Project Pompeii](https://project.pompei.org), [ARS-XAI](https://ars-xai.org) und [The Last Freedom](https://the-last-freedom.org).
+Ich würde mich freuen, wenn Sie diesen GitHub-Account sowie die folgenden Projekte teilen: [Project Pompeii](https://pompeii-project.org), [ARS-XAI](https://ars-xai.org) und [The Last Freedom](https://the-last-freedom.org).
 
 
 ### 🧩 Psychometrics · Open-Source Development · Algorithmic Research
