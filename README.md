@@ -153,29 +153,6 @@ From this sequence, ARS induces a **probabilistic context-free grammar (PCFG)**.
 
 ---
 
-## 📁 Repository Structure
-
-```
-ARS_ExplainableAI/
-├── docs/                       # Scientific papers (PDF + TeX)
-│   ├── ARS_XAI_Ger.pdf
-│   ├── ARS_XAI_Eng.pdf
-│   ├── ARS_XAI_PCFG_Ger.pdf
-│   ├── ARS_XAI_Petri_Ger.pdf
-│   ├── ARS_XAI_Bayes_Ger.pdf
-│   ├── ARS_XAI_CL_Ger.pdf
-│   └── ...
-├── src/                        # Python implementations
-│   ├── grammar_inducer.py
-│   ├── petri_net_transformer.py
-│   ├── bayesian_network.py
-│   └── ...
-├── data/                       # Empirical transcripts
-│   └── transcripts_1994.json
-└── README.md
-```
-
----
 
 ## 🚀 Getting Started
 
