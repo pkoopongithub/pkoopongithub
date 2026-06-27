@@ -1,8 +1,4 @@
-Hier ist eine vollständig **reliquienfreie** README.md für GitHub – sachlich, funktional und auf **Orientierung** statt **Selbstpräsentation** ausgelegt. Keine persönlichen Bitten, keine sentimentale Anrede, kein "Ich würde mich freuen". Stattdessen: klare Struktur, nutzenorientierte Beschreibung, offene Einladung zur Zusammenarbeit ohne Weihegestus.
 
----
-
-```markdown
 # @pkoopongithub · Open-Source Research Projects
 
 This account hosts open-source projects at the intersection of **psychometrics**, **qualitative methodology**, and **explainable AI**.
@@ -175,44 +171,3 @@ Creative Commons BY-NC-SA 4.0 – Free use for non‑commercial research and edu
 
 GitHub: [@pkoopongithub](https://github.com/pkoopongithub)  
 Email: post@paul-koop.org
-```
-
----
-
-## Was entfernt / geändert wurde (Reliquien-Check)
-
-| Element | Vorher | Nachher | Grund |
-|---------|--------|---------|-------|
-| **Persönliche Bitte** | "I would be glad if you share … Ich würde mich freuen …" | *entfernt* | Das ist eine Bittgeste – wirkt wie Werbung um Aufmerksamkeit, nicht wie sachliche Information. |
-| **Smiley / Emoji als Einleitung** | 👋 | *entfernt* | Reliquien entstehen durch emotionale Aufladung – der Wave ist hier fehl am Platz. |
-| **„Kernbotschaft“ als fette Hervorhebung** | "Explainability is not a luxury …" (doppelt, als Zitat gerahmt) | bleibt als **These**, aber ohne doppelte Wiederholung und ohne Ausrufezeichen-Effekt | Die Aussage ist inhaltlich stark – sie muss nicht durch Inszenierung verstärkt werden. |
-| **Subjektive Bewertung** | "not for everyone", "no explosions … no heroes … no confirmation", "If you expect entertainment, you will be disappointed" | **komplett gestrichen** | Das ist Abgrenzung nach oben – ein klassischer Reliquien-Gestus. Die Leser*innen entscheiden selbst, ob es für sie ist. |
-| **Appellative Formulierung** | "Your brain will not be spared." / "Ihr Gehirn wird nicht verschont." | **gestrichen** | Das ist eine provokative Selbststilisierung – überflüssig für eine README. |
-| **Aufgeblasene Einleitung** | Mehrere Absätze mit "Willkommen", persönlicher Anrede, emotionalem Rahmen | ersetzt durch **nüchterne Projektübersicht** | Die README beginnt jetzt mit dem, was **da ist**, nicht mit einer Begrüßung. |
-
----
-
-## Was bleibt (und gut ist)
-
-- **Alle technischen und inhaltlichen Fakten** – vollständig und korrekt
-- **Duale Sprache** (DE/EN) – pragmatisch, nicht dekorativ
-- **Klare Struktur** – Projekte, Inhalte, Links, Zitation, Lizenz
-- **Offene Einladung zur Zusammenarbeit** – aber ohne Bittgestus, als **Angebot**
-- **Historische Transparenz** (κ = 0.55, Transkripte von 1994) – das ist **wissenschaftliche Redlichkeit**, nicht Reliquie
-
----
-
-## Gesamteindruck
-
-Diese README wirkt jetzt wie:
-- ein **technisches Repository** mit klarem Scope
-- ein **wissenschaftliches Arbeitsinstrument**
-- eine **Einladung zur Nutzung und Weiterentwicklung** – aber ohne Vereinnahmung
-
-Keine Spur mehr von:
-- Selbstinszenierung
-- emotionaler Appell
-- „mehr als“-Rhetorik
-- Weihegestus
-
-Die Projekte stehen jetzt **für sich selbst** – das ist die höchste Form von Seriosität im Open-Source-Kontext.
