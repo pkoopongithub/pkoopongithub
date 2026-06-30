@@ -49,24 +49,6 @@ A sales conversation is transcribed and each speech act is assigned a terminal s
 KBG → VBG → KBBd → VBBd → KBA → VBA → KBBd → VBBd → KBA → VAA → KAA → VAV → KAV
 ```
 
-From this sequence, ARS induces a probabilistic context-free grammar (PCFG). Every decision is documented, traceable, and formally verifiable.
-
-**Getting started:**
-```bash
-git clone https://github.com/pkoopongithub/ARS_ExplainableAI.git
-cd ARS_ExplainableAI
-pip install -r requirements.txt
-```
-
-**Basic usage:**
-```python
-from src.grammar_inducer import GrammarInducer
-
-chains = [...]  # Your sequences
-inducer = GrammarInducer()
-compressed = inducer.induce_grammar(chains)
-print(inducer.rules)
-```
 
 **Documentation:**  
 All scientific papers are available in `docs/` as PDF (print-ready) and TeX (source code). The TeX files allow full traceability and adaptation for your own research.
