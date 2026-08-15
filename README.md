@@ -1,6 +1,6 @@
 # @pkoopongithub · Open-Source Research Projects
 
-This account hosts open-source projects at the intersection of **explainable AI**, **blending literary fiction**, and **psychometrics**.
+This account hosts open-source projects at the intersection of **explainable AI**, **blended literary fiction**, and **psychometrics**.
 
 ---
 
