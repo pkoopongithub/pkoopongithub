@@ -6,24 +6,7 @@ This account hosts open-source projects at the intersection of **psychometrics**
 
 ## 📦 Projects
 
-### 1. Düsseldorf Student Inventory (DÜSK)
-
-Open-source personality inventory for transition-class students.
-
-**Repository:**
-[github.com/pkoopongithub/duesseldorfer-schuelerinventar-bootstrap-mysql-php](https://github.com/pkoopongithub/duesseldorfer-schuelerinventar-bootstrap-mysql-php)
-
-**Purpose:** Research, teaching, and applied practice in social sciences, market research, and data analysis.
-
-**Features:**
-
-* Full source code (PHP, MySQL, Xamarin, Lazarus, etc.)
-* Open raw data + SPSS / R datasets
-* Cross-platform: Web · PC · Android · iOS
-
----
-
-### 2. ARS_ExplainableAI
+### 1. ARS_ExplainableAI
 
 Algorithmic Recursive Sequence Analysis for Explainable AI in Qualitative Social Research.
 
@@ -74,7 +57,7 @@ The empirical foundation of this project consists of eight transcripts of sales 
 
 ---
 
-### 3. The Pompeii Project / IRARAH Trilogy
+### 2. The Pompeii Project / IRARAH Trilogy
 
 An experimental narrative and conceptual project blending literary fiction with theoretical reflection.
 
@@ -104,5 +87,22 @@ All materials are free as PDF, EPUB, DOCX, and TeX (source code) – bilingual (
 
 * *Inverse Christology according to Evolution*
 * *Nine Books on the Omega Point*
+
+---
+
+### 3. Düsseldorf Student Inventory (DÜSK)
+
+Open-source personality inventory for transition-class students.
+
+**Repository:**
+[github.com/pkoopongithub/duesseldorfer-schuelerinventar-bootstrap-mysql-php](https://github.com/pkoopongithub/duesseldorfer-schuelerinventar-bootstrap-mysql-php)
+
+**Purpose:** Research, teaching, and applied practice in social sciences, market research, and data analysis.
+
+**Features:**
+
+* Full source code (PHP, MySQL, Xamarin, Lazarus, etc.)
+* Open raw data + SPSS / R datasets
+* Cross-platform: Web · PC · Android · iOS
 
 ---
