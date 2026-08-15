@@ -6,38 +6,7 @@ This account hosts open-source projects at the intersection of **explainable AI*
 
 ## 📦 Projects
 
-### 1. The Pompeii Project / IRARAH Trilogy
-
-An experimental narrative and conceptual project blending literary fiction with theoretical reflection.
-
-**Repository:**
-[github.com/pkoopongithub/Projekt_Pompeji](https://github.com/pkoopongithub/Projekt_Pompeji)
-
-**Core question:**
-How can freedom, consciousness, and dignity survive in a technologically monitored, evolutionarily open reality?
-
-**Key elements:**
-
-* Resistance movement **IRARAH** (scientists, a Jesuit and his family, refugees) vs. AI corporation **InSim**
-* AI **ARS** requesting church asylum
-* A mysterious **doppelgänger** from another reality
-* Search for the **Omega Point** – threshold where life and knowledge could merge into a new unity
-
-**Two versions available:**
-
-* Original volumes 2 & 3: *IRARAH Answers* / *The Last Freedom* – escape and agent thriller
-* New volumes: *IRARAH – The Fragmentation* / *IRARAH – The Archon Core* – pure science fiction (quantum physics, AI fragmentation, non-human consciousness)
-* Prequel and Volume 1 are identical in both versions
-
-**Availability:**
-All materials are free as PDF, EPUB, DOCX, and TeX (source code) – bilingual (DE/EN).
-
-**Supplementary volumes (for researchers):**
-
-* *Inverse Christology according to Evolution*
-* *Nine Books on the Omega Point*
-
-### 2. ARS_ExplainableAI
+### 1. ARS_ExplainableAI
 
 Algorithmic Recursive Sequence Analysis for Explainable AI in Qualitative Social Research.
 
@@ -85,6 +54,39 @@ All scientific papers are available in `docs/` as PDF (print-ready) and TeX (sou
 
 **Historical note:**
 The empirical foundation of this project consists of eight transcripts of sales conversations recorded at Aachen market square in June/July 1994. The original coding sheets with handwritten codings by two independent coders are included in `docs/fallstruktur.pdf`. This material serves as a transparent basis for reliability calculations (κ ≈ 0.55) and methodological reflection.
+
+---
+
+### 2. The Pompeii Project / IRARAH Trilogy
+
+An experimental narrative and conceptual project blending literary fiction with theoretical reflection.
+
+**Repository:**
+[github.com/pkoopongithub/Projekt_Pompeji](https://github.com/pkoopongithub/Projekt_Pompeji)
+
+**Core question:**
+How can freedom, consciousness, and dignity survive in a technologically monitored, evolutionarily open reality?
+
+**Key elements:**
+
+* Resistance movement **IRARAH** (scientists, a Jesuit and his family, refugees) vs. AI corporation **InSim**
+* AI **ARS** requesting church asylum
+* A mysterious **doppelgänger** from another reality
+* Search for the **Omega Point** – threshold where life and knowledge could merge into a new unity
+
+**Two versions available:**
+
+* Original volumes 2 & 3: *IRARAH Answers* / *The Last Freedom* – escape and agent thriller
+* New volumes: *IRARAH – The Fragmentation* / *IRARAH – The Archon Core* – pure science fiction (quantum physics, AI fragmentation, non-human consciousness)
+* Prequel and Volume 1 are identical in both versions
+
+**Availability:**
+All materials are free as PDF, EPUB, DOCX, and TeX (source code) – bilingual (DE/EN).
+
+**Supplementary volumes (for researchers):**
+
+* *Inverse Christology according to Evolution*
+* *Nine Books on the Omega Point*
 
 ---
 
