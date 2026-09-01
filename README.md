@@ -10,6 +10,11 @@ This account hosts open-source projects at the intersection of **explainable AI*
 
 Algorithmic Recursive Sequence Analysis for Explainable AI in Qualitative Social Research.
 
+**The validity dilemma of AI in qualitative social research:**
+Generative AI massively scales qualitative interpretations – at the expense of empirical validity. The vision of transparent, rule-based coding (long established in R or Python) is getting lost in the hype surrounding LLMs.
+The future of qualitative methodology lies not in ever-larger black boxes, but in explainable, structured systems: neuro-symbolic AI, Bayesian networks, Petri nets, Rule-based systems and XAI.
+🔗 https://ars-xai.org
+
 **Repository:**
 [github.com/pkoopongithub/ARS_ExplainableAI](https://github.com/pkoopongithub/ARS_ExplainableAI)
 
