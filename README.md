@@ -13,10 +13,10 @@ Algorithmic Recursive Sequence Analysis for Explainable AI in Qualitative Social
 **The validity dilemma of AI in qualitative social research:**
 Generative AI massively scales qualitative interpretations – at the expense of empirical validity. The vision of transparent, rule-based coding (long established in R or Python) is getting lost in the hype surrounding LLMs.
 The future of qualitative methodology lies not in ever-larger black boxes, but in explainable, structured systems: neuro-symbolic AI, Bayesian networks, Petri nets, Rule-based systems, Algorithmic Recursive Sequence Analysis and XAI.
-🔗 https://ars-xai.org
+🔗 [https://ars-xai.org](https://ars-xai.org)
 
 **Repository:**
-[github.com/pkoopongithub/ARS_ExplainableAI](https://github.com/pkoopongithub/ARS_ExplainableAI)
+[github.com/pkoopongithub/ARS_ExplainableAI](https://github.com/pkoopongithub/ARS_ExplainableAI) 🔗 [https://pompeii-project.org](https://pompeii-project.org)
 
 **Core proposition:**
 Explainability is not a luxury – neither in AI nor in qualitative research.
