@@ -102,6 +102,8 @@ Open-source personality inventory for transition-class students.
 **Repository:**
 [github.com/pkoopongithub/duesseldorfer-schuelerinventar-bootstrap-mysql-php](https://github.com/pkoopongithub/duesseldorfer-schuelerinventar-bootstrap-mysql-php)
 
+🔗 [https://mein-duesk.org/](https://mein-duesk.org/)
+
 **Purpose:** Research, teaching, and applied practice in social sciences, market research, and data analysis.
 
 **Features:**
