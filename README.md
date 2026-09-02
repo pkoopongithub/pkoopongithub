@@ -16,7 +16,7 @@ The future of qualitative methodology lies not in ever-larger black boxes, but i
 🔗 [https://ars-xai.org](https://ars-xai.org)
 
 **Repository:**
-[github.com/pkoopongithub/ARS_ExplainableAI](https://github.com/pkoopongithub/ARS_ExplainableAI) 🔗 [https://pompeii-project.org](https://pompeii-project.org)
+[github.com/pkoopongithub/ARS_ExplainableAI](https://github.com/pkoopongithub/ARS_ExplainableAI) 
 
 **Core proposition:**
 Explainability is not a luxury – neither in AI nor in qualitative research.
@@ -67,7 +67,7 @@ The empirical foundation of this project consists of eight transcripts of sales 
 An experimental narrative and conceptual project blending literary fiction with theoretical reflection.
 
 **Repository:**
-[github.com/pkoopongithub/Projekt_Pompeji](https://github.com/pkoopongithub/Projekt_Pompeji)
+[github.com/pkoopongithub/Projekt_Pompeji](https://github.com/pkoopongithub/Projekt_Pompeji) 🔗 [https://pompeii-project.org](https://pompeii-project.org)
 
 **Core question:**
 How can freedom, consciousness, and dignity survive in a technologically monitored, evolutionarily open reality?
