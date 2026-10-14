@@ -1,6 +1,12 @@
 # @pkoopongithub · Open-Source Research Projects
 
+Dieses Konto beherbergt Open-Source-Projekte an der Schnittstelle von **erklärbarer KI**, **literarischer Fiktion** und **Psychometrie**.
+
 This account hosts open-source projects at the intersection of **explainable AI**, **literary fiction**, and **psychometrics**.
+
+Die Texte entstanden in einem iterativen Prozess, in dem KI-Werkzeuge (ChatGPT, DeepSeek, Google, Bing) für Konsistenzprüfung, Strukturierung und Formulierungsvarianten eingesetzt wurden. Die inhaltliche Konzeption, die Auswahl der Motive und die Endredaktion liegen beim Autor.
+
+The texts were created in an iterative process in which AI tools (ChatGPT, DeepSeek, Google, Bing) were used for consistency checking, structuring, and phrasing variations. The content concept, selection of themes, and final editing are the responsibility of the author.
 
 ---
 
